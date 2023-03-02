@@ -1,0 +1,9 @@
+C:\Users\MiLaptop\source\repos\loginsys\Datos\bin\Debug\Datos.dll
+C:\Users\MiLaptop\source\repos\loginsys\Datos\bin\Debug\Datos.pdb
+C:\Users\MiLaptop\source\repos\loginsys\Datos\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\MiLaptop\source\repos\loginsys\Datos\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\MiLaptop\source\repos\loginsys\Datos\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\MiLaptop\source\repos\loginsys\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\MiLaptop\source\repos\loginsys\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\MiLaptop\source\repos\loginsys\Datos\obj\Debug\Datos.dll
+C:\Users\MiLaptop\source\repos\loginsys\Datos\obj\Debug\Datos.pdb
